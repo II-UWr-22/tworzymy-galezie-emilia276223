@@ -1,3 +1,6 @@
 Emilia Wisniewska
 najciekawszą rzeczą którą poznałam jest git
+<<<<<<< HEAD
 CZytam Wiedze i życie
+=======
+>>>>>>> 5332
